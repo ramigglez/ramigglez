@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ramigglez
 - 👀 I’m interested in ... learn to code
-- 🌱 I’m currently learning ... everything
-- 💞️ I’m looking to collaborate on ... nothing XD
+- 🌱 I’m currently learning ... everything about php and ajax
+- 💞️ I’m looking to collaborate on ... learning how to make awesome projects in php and ajax.
 - 📫 How to reach me ... ramigglez@gmail.com
 
 <!---
